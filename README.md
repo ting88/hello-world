@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hi~ I want to be an excellent safety engineer
